@@ -2,6 +2,15 @@
 
 ## Links to Individual Websites
 
+### Comparison of All Five Boroughs 
+![alt text](Outdoor_Dining_5.png)
+
+### Outdoor Dining in Queens
+![alt text](Plot_2.png)
+
+### Sidewalk vs. Roadway in Queens
+![alt text](Plot_3.png)
+
 # [Ridgewood](https://lauren-avilla.github.io/ridgewood)
 
 # [Maspeth](https://NickYaoo.github.io/Maspeth)
