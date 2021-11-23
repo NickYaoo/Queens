@@ -2,11 +2,11 @@
 
 ## Links to Individual Websites
 
-# [Ridgewood](lauren-avilla.github.io/ridgewood)
+# [Ridgewood](https://lauren-avilla.github.io/ridgewood)
 
-# [Maspeth](nickyaoo.github.io/Maspeth)
+# [Maspeth](https://NickYaoo.github.io/Maspeth)
 
-# [Astoria](two-brain-cells-hard-at-work.github.io/Astoria) 
+# [Astoria](https://two-brain-cells-hard-at-work.github.io/Astoria) 
 
 # Flushing
 
