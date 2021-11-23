@@ -25,7 +25,7 @@ The pie chart analyzes the number (in percentages) of sidewalks, roadways, both,
 \
 This bar graph compares each of our neighborhoods in Queens. This is a comparative bar plot with sidewalk average area in the blue and roadway average area in the orange. There is a clear difference between sidewalk and roadway areas. Plot #3 also supports the idea from Plot #1 and Plot #2 that Queens has a stronger preference for sidewalks, even within 5 of neighborhoods. This difference may be indicative of the space available for outdoor dining. More average space on the sidewalks reflect the higher amounts of sidewalk outdoor dining in Queens compared to the roadway outdoor dining as seen on Plot #2. 
 
-#Individual Neighorhood Links
+# Individual Neighorhood Links
 
 ## [Ridgewood](https://lauren-avilla.github.io/ridgewood)
 
