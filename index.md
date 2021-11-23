@@ -3,7 +3,7 @@
 ## Summary of Our Work
 
 ## More Analysis for Queens
-\
+
 ### Comparison of All Five Boroughs 
 ![alt text](Outdoor_Dining_5.png)
 
