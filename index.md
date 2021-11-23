@@ -2,6 +2,9 @@
 
 ## Summary of Our Work
 
+For our project, we analyzed five neighborhoods within the borough of Queens, New York - Ridgewood, Maspeth, Astoria, Jackson Heights, and Flushing. Within each of these neighborhoods, we analyzed their suitability for outdoor dining during the COVID-19 pandemic using our own criteria. In order to determine how each of our Queens neighborhoods ranked in terms of desirability for outdoor dining, we compared each one using the following desirable qualities: walk score, transit score, and income. Walk Score measures how readily the residents of a neighborhood can access the restaurants. Transit Score measures how readily consumers 
+outside the neighborhood you can access the restaurants. Income is used to determine the cost of living. Ridgewood has the best balance of walkability, train access, and income to create an environment ideal for people to start restaurants that have outdoor dining while being easily accessible to people in and out of the area. When comparing the borough of Queens to other boroughs - Bronx, Brooklyn, Manhattan, and Staten Island - the average sidewalk areas are greater than all their average roadway areas. Queens has a stronger preference for sidewalks when compared to the boroughs of Brooklyn and Manhattan. However, when compared to the Bronx, Queens has a weaker preference than the Bronx. Overall, the borough of Queens has a high desirability for outdoor dining.
+
 ## More Analysis for Queens
 
 ### Comparison of All Five Boroughs 
